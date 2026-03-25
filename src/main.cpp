@@ -3,7 +3,7 @@
 // Hardware-Pins
 #define LED_PIN      5
 #define BUTTON_PIN   2    
-#define STATUS_LED   13    // On-Board LED des Nano
+#define STATUS_LED   13    // On-Board LED des Nano nur zu Testzwecken, zeigt an, ob der Modus aktiv ist (LED an) oder aus (LED aus)
 #define NUM_LEDS     76
 #define BRIGHTNESS   64    // Etwas höher zum Testen
 
